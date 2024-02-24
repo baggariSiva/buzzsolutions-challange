@@ -1,0 +1,5 @@
+{
+  "pathNotFound":"Path not found", 
+  "serverRunning":"Server working fine", 
+  "globalError":"Something broke!"
+}
