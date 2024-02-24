@@ -19,7 +19,7 @@ npm install -g typescript
 Then run npm start 
 
 
-4. Navigate to the frontend folder Flickr in your command terminal 
+4. Navigate to the frontend folder Flickr-react in your command terminal 
 
 npm install // Install npm packages used in the application
 npm start  // Run the project
